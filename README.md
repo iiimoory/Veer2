@@ -1,7 +1,7 @@
 #  تنصيب سورس فير الجديد  V2 ⇓⇓⇓ 
 
 ```
-cd ~;rm -rf VeerV2;wget -q -O - "https://raw.githubusercontent.com/iiimoory/Veer2/main/install.txt" | bash;cd VeerV2;python3.8 setup.py
+cd ~;rm -rf Veer2;wget -q -O - "https://raw.githubusercontent.com/iiimoory/Veer2/main/install.txt" | bash;cd VeerV2;python3.8 setup.py
 ```
 * فقط أضغط على الكود 👆🏻 وقم بنسخه 
 * ثم ادخل الى سيرفرك ال Vps باصدار Ubuntu 18
